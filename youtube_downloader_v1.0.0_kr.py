@@ -256,7 +256,7 @@ class YouTubeDownloader(tk.Tk):
         
         copyright_label = ttk.Label(
             bottom_frame, 
-            text="© 2025 지식에 대한 탐구 (https://small-tip.co.kr) - 모든 권리 보유",
+            text="© 2025 지식에 대한 탐구 (https://small-tip.co.kr) - All rights reserved.",
             cursor="hand2"
         )
         copyright_label.pack(side='left')
