@@ -39,7 +39,7 @@ python youtube_downloader.py
 
 ## 저작권
 
-Copyright (c) 2024 지식에 대한 탐구 (https://small-tip.co.kr)
+Copyright (c) 2025 지식에 대한 탐구 (https://small-tip.co.kr)
 
 ## 기여
 

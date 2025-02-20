@@ -5,7 +5,7 @@ YouTube Downloader
 This is a desktop application for downloading YouTube videos and extracting subtitles.
 It provides a GUI environment for convenient downloading of videos, subtitles, and audio.
 
-Copyright (c) 2024 Knowledge Explorer (https://small-tip.co.kr)
+Copyright (c) 2025 Knowledge Explorer (https://small-tip.co.kr)
 All rights reserved.
 
 License:
@@ -45,7 +45,7 @@ Key Features:
 
 Developer: MJ (Knowledge Explorer)
 Version: 1.0.0
-Last Modified: 2024-02-20
+Last Modified: 2025-02-20
 """
 
 import re
@@ -256,7 +256,7 @@ class YouTubeDownloader(tk.Tk):
         
         copyright_label = ttk.Label(
             bottom_frame, 
-            text="© 2024 Knowledge Explorer (https://small-tip.co.kr) - All Rights Reserved",
+            text="© 2025 Knowledge Explorer (https://small-tip.co.kr) - All Rights Reserved",
             cursor="hand2"
         )
         copyright_label.pack(side='left')

@@ -5,7 +5,7 @@ YouTube Downloader
 이 프로그램은 YouTube 동영상을 다운로드하고 자막을 추출할 수 있는 데스크톱 애플리케이션입니다.
 GUI 환경에서 YouTube 영상, 자막, 음성을 편리하게 다운로드할 수 있습니다.
 
-Copyright (c) 2024 지식에 대한 탐구 (https://small-tip.co.kr)
+Copyright (c) 2025 지식에 대한 탐구 (https://small-tip.co.kr)
 All rights reserved.
 
 라이선스:
@@ -45,7 +45,7 @@ GNU General Public License v3.0에 따라 배포됩니다.
 
 개발자: MJ (지식에 대한 탐구)
 버전: 1.0.0
-최종 수정일: 2024-02-20
+최종 수정일: 2025-02-20
 """
 
 import re
@@ -256,7 +256,7 @@ class YouTubeDownloader(tk.Tk):
         
         copyright_label = ttk.Label(
             bottom_frame, 
-            text="© 2024 지식에 대한 탐구 (https://small-tip.co.kr) - 모든 권리 보유",
+            text="© 2025 지식에 대한 탐구 (https://small-tip.co.kr) - 모든 권리 보유",
             cursor="hand2"
         )
         copyright_label.pack(side='left')
